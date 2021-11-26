@@ -1,0 +1,291 @@
+.logoimage{
+
+
+    height: 786px;
+    width: 720px;
+    position: relative;
+    left: 650px;
+    
+    }
+    
+    .header1{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular',
+      'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+       Verdana, sans-serif;
+    
+        position: relative;
+        top: -650px;
+        left: 150px;
+    }
+    
+    .new-here{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular',
+      'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+       Verdana, sans-serif;
+    
+        position: relative;
+        top: -658px;
+        left: 150px;
+    
+        color: #b5b5c3;
+        size: 70px
+        
+     
+        
+    }
+    .linkcreate{
+        text-decoration: none;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular',
+      'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+       Verdana, sans-serif;
+        position: relative;
+        top: -697px;
+        left: 245px;
+    
+    color: #f64e60;
+    size: 70px
+    
+    
+    
+    }
+    .label{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+         Verdana, sans-serif;
+    
+    
+    
+         position: relative;
+        top: -652px;
+        left: 150px;
+         size: 70px
+    
+    }
+    .input{
+    
+        width: 340px;
+        height: 50px;
+        
+        position: relative;
+            top: -648px;
+            left: 145px;
+        border-radius: 6px;
+        background-color:#f3f6f9;
+        
+        border: 1px solid #f3f6f9;
+        text-align: inherit;
+        
+        }
+    
+        .label2{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular',
+            'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+             Verdana, sans-serif;
+        
+        
+        
+             position: relative;
+            top: -614px;
+            left: 150px;
+             size: 70px
+        
+        }
+        .input2{
+        
+        width: 340px;
+        height: 50px;
+        
+        position: relative;
+            top: -608px;
+            left: 145px;
+        border-radius: 6px;
+        background-color:#f3f6f9;
+        
+        border: 1px solid #f3f6f9;
+        
+        
+        }
+
+    .label3{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+         Verdana, sans-serif;
+    
+    
+    
+         position: relative;
+        top: -576px;
+        left: 150px;
+         size: 70px
+    
+    }    
+
+
+
+     .input3{
+
+        width: 340px;
+        height: 50px;
+        
+        position: relative;
+            top: -568px;
+            left: 145px;
+        border-radius: 6px;
+        background-color:#f3f6f9;
+        
+        border: 1px solid #f3f6f9;
+     }
+                
+.label4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+         Verdana, sans-serif;
+    
+    
+    
+         position: relative;
+        top: -538px;
+        left: 150px;
+         size: 70px
+}
+
+.input4{
+
+    width: 340px;
+    height: 50px;
+    
+    position: relative;
+        top: -528px;
+        left: 145px;
+    border-radius: 6px;
+    background-color:#f3f6f9;
+    
+    border: 1px solid #f3f6f9;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    /* .forgotpswrd{
+            text-decoration: none;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular',
+             'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+              Verdana, sans-serif;
+    
+    
+     position: relative;
+     top: -663px;
+        left: 339px;
+            color: #f64e60;
+            size: 70px;
+     */
+    
+        
+    /* .signlink{
+        text-decoration: none;
+        color: #ffffff;
+        size: 70px;
+    
+        text-decoration: none;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular',
+             'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+              Verdana, sans-serif;
+    
+    } */
+    .button2{
+    
+    background-color: #f64e60;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+             'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+              Verdana, sans-serif;
+              text-decoration: none;
+        color: #ffffff;
+        size: 70px;
+        border-radius: 8px;
+        border: 1px solid #f64e60;
+        width: 130px;
+        height: 50px;
+    
+    
+        position: relative;
+        top: -510px;
+        left: 145px;
+        /* position: relative;
+        
+        left: -430px;  top: -510px;*/
+    }
+    .button2:hover{
+    
+        background-color: #f13c4e;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular',
+                 'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+                  Verdana, sans-serif;
+                  text-decoration: none;
+            color: #ffffff;
+            size: 70px;
+            border-radius: 8px;
+            border: 1px solid #f13c4e;
+            width: 130px;
+            height: 50px;
+        
+        
+            position: relative;
+            top: -510px;
+            left: 145px;
+            /* position: relative;
+            
+            left: -430px;  top: -510px;*/
+        }
+    .button3{
+    
+        background-color: #f3cfd3;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular',
+                 'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+                  Verdana, sans-serif;
+                  
+            color: #ffffff;
+            size: 70px;
+            border-radius: 8px;
+            border: 1px solid #f3cfd3;
+            width: 200px;
+            height: 50px;
+    
+            position: relative;
+            top: -560px;
+            left: 290px;
+            /* position: relative;
+            top: -600px; */
+            /* left: -430px; */
+        }
+        .button3:hover{
+    
+            background-color: #f64e60;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular',
+                     'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+                      Verdana, sans-serif;
+                      
+                color: #f3cfd3;
+                size: 70px;
+                border-radius: 8px;
+                border: 1px solid #f64e60;
+                width: 200px;
+                height: 50px;
+        
+                position: relative;
+                top: -560px;
+                left: 290px;
+                /* position: relative;
+                top: -600px; */
+                /* left: -430px; */
+            }
+    
